@@ -13,3 +13,5 @@ The definitions of processes used in this document is listed below.
 ## <a name="material">Material
 ## <a name="composition">Composition
 ## <a name="casting">Casting
+Casting is what to implement this library.
+
