@@ -10,6 +10,8 @@ The definitions of processes used in this document is listed below.
 - [Casting](#casting)
 
 ## <a name="property">Property
+Property is the concept and mind of this library.
+
 ## <a name="material">Material
 ## <a name="composition">Composition
 ## <a name="casting">Casting
