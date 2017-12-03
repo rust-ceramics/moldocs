@@ -19,4 +19,5 @@ Material is the resource used in this library.
 Composition is the standard on how to use Materials in combination.
 
 ## <a name="casting">Casting
+Casting is what to implement this library.
 
