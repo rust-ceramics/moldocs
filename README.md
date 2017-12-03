@@ -16,5 +16,7 @@ Property is the concept and mind of this library.
 Material is the resource used in this library.
 
 ## <a name="composition">Composition
+Composition is the standard on how to use Materials in combination.
+
 ## <a name="casting">Casting
 
