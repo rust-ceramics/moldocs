@@ -1,6 +1,9 @@
 # About this document
 This document define rust-ceramics specifications.
 
+# Process
+This document consists of several processes.
+
 # Definitions of Processes
 The definitions of processes used in this document is listed below.
 
