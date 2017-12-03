@@ -12,4 +12,6 @@ The definitions of processes used in this document is listed below.
 ## <a name="property">Property
 ## <a name="material">Material
 ## <a name="composition">Composition
+Composition is the standard on how to use Materials in combination.
+
 ## <a name="casting">Casting
