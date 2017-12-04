@@ -1,7 +1,7 @@
 # Property
 
-## [Simple](simple)
+- [Simple](simple)
 
-## [Fast](fast)
+- [Fast](fast)
 
-## [Efficiency](efficiency)
+- [Efficiency](efficiency)
