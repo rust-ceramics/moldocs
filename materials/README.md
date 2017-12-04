@@ -1,6 +1,6 @@
 # Material
 
-- [SERVER](server)
+- [Server](server)
 
 - [HTML Template Engine](html_template_engine)
 
