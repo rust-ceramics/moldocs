@@ -13,14 +13,14 @@ The definitions of processes used in this document is listed below.
 - [Casting](#casting)
 
 ## <a name="property">Property
-Property is the concept and mind of this library.
+[Property](/properties) is the concept and mind of this library.
 
 ## <a name="material">Material
-Material is the resource used in this library.
+[Material](/materials) is the resource used in this library.
 
 ## <a name="composition">Composition
-Composition is how to use Materials in combination.
+[Composition](/compositions) is how to use Materials in combination.
 
 ## <a name="casting">Casting
-Casting is what to implement this library.
+[Casting](/castings) is what to implement this library.
 
