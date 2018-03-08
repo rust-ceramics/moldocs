@@ -1,14 +1,6 @@
-# Simple Configuration
-rust-ceramics compile according to the simple configuration file.
+# Simple Interface
+rust-ceramics has simple interface for users.
 
-# Simple Command
-You can build server binaries with the single command.
+# Simple Implementation
+rust-ceramics has simple implementation, Ex. paying attention to using too much macro.
 
-# For Markdown
-rust-ceramics can generate HTML from Markdown style text.
-
-# For Micro service
-Easy to configure multiple servers.
-
-# For Static Object
-rust-ceramics can easily configure the server with only static objects;html, markdown, javascript, css.
