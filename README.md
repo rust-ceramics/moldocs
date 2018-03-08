@@ -22,5 +22,5 @@ The definitions of processes used in this document is listed below.
 [Composition](/compositions) is how to use Materials in combination.
 
 ## <a name="casting">Casting
-[Casting](/castings) is what to implement this library.
+[Casting](/castings) is library documents.
 
