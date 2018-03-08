@@ -4,4 +4,4 @@
 
 - [Fast](fast)
 
-- [Efficiency](efficiency)
+- [Ergonomic](ergonomic)
